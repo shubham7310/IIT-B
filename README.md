@@ -289,10 +289,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - ROS2 Humble community
 - OpenCV team for DNN module
 
-## 📧 Contact
-
-For questions or support, please open an issue on GitHub.
-
----
-
-**Optimized for Edge AI Deployment on Raspberry Pi 4** 🚁
